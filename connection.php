@@ -3,7 +3,7 @@
 $username = "root";
 $password = "";
 $host = "127.0.0.1";
-$dbname = "7";
+$dbname = "database.sql";
 
 // UTF-8 is a character encoding scheme that allows you to conveniently store
 // a wide varienty of special characters, like ¢ or €, in your database.
